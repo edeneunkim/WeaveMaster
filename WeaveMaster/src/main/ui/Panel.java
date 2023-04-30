@@ -41,8 +41,6 @@ public class Panel extends JPanel implements Runnable {
      * appear in the game
      */
     public Panel() {
-        c = new MainCharacter((WIDTH / 2) - (CHAR_DIAMETER / 2), (HEIGHT / 2) - (CHAR_DIAMETER / 2), CHAR_DIAMETER,
-                CHAR_DIAMETER);
         projectiles = new ArrayList<>();
         orbs = new ArrayList<>();
         setBackground(Color.BLACK);
@@ -56,6 +54,8 @@ public class Panel extends JPanel implements Runnable {
      * Sets up the game
      */
     public void setUp() {
+        c = new MainCharacter((WIDTH / 2) - (CHAR_DIAMETER / 2), (HEIGHT / 2) - (CHAR_DIAMETER / 2), CHAR_DIAMETER,
+                CHAR_DIAMETER);
         points = new Points(WIDTH, HEIGHT, 0);
         this.projectiles.clear();
         this.orbs.clear();
