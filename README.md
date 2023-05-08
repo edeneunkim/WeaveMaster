@@ -1,7 +1,7 @@
 # WeaveMaster
 WeaveMaster is a game where the user must dodge incoming projectiles and survive as long as possible. There are orbs that periodically spawn that can be collected to affect how the game is played.
 ## Introduction
-This is a personal project that I made during my free time. As someone interested in game development, I thought it would be useful for me to create a simple game to gain some experience in making games and apps. I enjoyed playing simple single-player retro games when I was younger, so I decided to make a similar style of game as way to understand how to develop games and demonstrate and improve my coding skills.
+This is a personal project that I made during my free time. As someone interested in game development, I thought it would be useful for me to create a simple game to gain some experience in making games and apps. I enjoyed playing simple single-player retro games when I was younger, so I decided to make a similar style of game as way to understand how to develop games and demonstrate and improve my coding skills. I opted to use Java as I am experienced and familiar with making programs with GUI on Java compared to the other languages I know.
 ## Technologies
 * Java 
 * JUnit 5.8.1
