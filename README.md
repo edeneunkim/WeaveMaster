@@ -15,5 +15,5 @@ The main file contains the model and ui packages, where the model package contai
 ### Test
 The test file contains tests for the Orb and its subtypes, MainCharacter, and Projectile classes. These tests use the JUnit library and should cover most cases. 
 ## Sources
-I used the following video to learn how to implement threads and run a game program
+I used the following video to learn how to implement threads and run a game program:
 * https://www.youtube.com/watch?v=oLirZqJFKPE
